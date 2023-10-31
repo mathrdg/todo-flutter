@@ -1,0 +1,168 @@
+import 'package:flutter/material.dart';
+
+class TodoListPage extends StatelessWidget {
+  const TodoListPage({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      body: Center(
+        child: Padding(
+          padding: const EdgeInsets.all(20),
+          child: TextField(
+            decoration: InputDecoration(
+                labelText: 'Preço',
+                hintText: 'Coloca a grana ai',
+                border:
+                    OutlineInputBorder(borderRadius: BorderRadius.circular(20)),
+                errorText: null,
+                prefixText: 'R\$ '),
+            //obscureText: true,
+            keyboardType: TextInputType.number,
+            style: TextStyle(
+                fontWeight: FontWeight.w700,
+                fontSize: 20,
+                color: Color.fromARGB(255, 186, 14, 217)),
+          ),
+        ),
+      ),
+    );
+  }
+}
+void login() {
+    String text = emailController.text;
+    print(text);
+    emailController.clear();
+    emailController.text = 'mudança';  // escreve  no campo de texto
+
+
+    // Colocar textos dentro de expanded, vai evitar quebra limites
+
+    import 'package:flutter/material.dart';
+
+class TodoListPage extends StatefulWidget {
+  TodoListPage({super.key});
+
+  @override
+  State<TodoListPage> createState() => _TodoListPageState();
+}
+
+class _TodoListPageState extends State<TodoListPage> {
+  final TextEditingController todocontroller = TextEditingController();
+
+  List<String> todos = [];
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+        body: Center(
+      child: Padding(
+        padding: const EdgeInsets.symmetric(
+          horizontal: 20,
+        ),
+        child: Column(
+          mainAxisSize: MainAxisSize.min,
+          children: [
+            Row(
+              children: [
+                Expanded(
+                  flex: 1,
+                  //ocupa todo o espaço da tela, ajuda a quebrar linha
+                  // propriedade flex dá mais volume, é '3x' maior que o botão
+                  child: TextField(
+                    controller: todocontroller,
+                    decoration: InputDecoration(
+                      border: OutlineInputBorder(
+                          borderRadius: BorderRadius.circular(12)),
+                      labelText: 'Adiciona Tarefa, Corno',
+                      hintText: 'Ex.:  Cagar em casa',
+                    ),
+                  ),
+                ),
+                SizedBox(
+                  width: 10,
+                ),
+                ElevatedButton(
+                  onPressed: () {
+                    String text = todocontroller.text;
+                    setState(() {
+                      todos.add(text);
+                    });
+                    todocontroller.clear();
+                  },
+                  style: ElevatedButton.styleFrom(
+                    backgroundColor: (Color(0xff00d7f3)),
+                    fixedSize: Size(50, 55),
+                  ),
+                  child: Text(
+                    '+',
+                    style: TextStyle(fontSize: 30, fontWeight: FontWeight.w300),
+                  ),
+                )
+              ],
+            ),
+            SizedBox(
+              height: 20,
+            ),
+            Flexible(
+              //permite que o listview não quebre
+              child: ListView(
+                shrinkWrap: true, // permite ocupar o máximo de espaço do item
+                children: [
+                  for (String todo in todos)
+                    ListTile(
+                      title: Text(todo),
+                      onTap: () {
+                        print('Tarefa $todo');
+                      },
+                    ),
+                ],
+              ),
+            ),
+            SizedBox(
+              height: 20,
+            ),
+            Row(
+              children: [
+                SizedBox(
+                  width: 6,
+                ),
+                Expanded(
+                  child: Text(
+                    'Você Possui x Tarefas Pendentes, degraçado',
+                    style: TextStyle(fontSize: 15),
+                  ),
+                ),
+                ElevatedButton(
+                  onPressed: click,
+                  style: ElevatedButton.styleFrom(
+                      backgroundColor: (Color(0xff00d7f3)),
+                      padding: EdgeInsets.all(15)),
+                  child: Text(
+                    'Limpar Tudo',
+                    style: TextStyle(fontSize: 14),
+                  ),
+                )
+              ],
+            )
+          ],
+        ),
+      ),
+    ));
+  }
+}
+
+void click() {
+  print('click');
+}
+String now() {
+  DateTime now = DateTime.now();
+
+  String hora = now.hour.toString().padLeft(2, '0');
+  String minuto = now.minute.toString().padLeft(2, '0');
+  String dia = now.day.toString().padLeft(2, '0');
+  String mes = now.month.toString().padLeft(2, '0');
+  String ano = now.year.toString().substring(2);
+
+  return 'Horário $hora:$minuto $dia/$mes/$ano';
+}

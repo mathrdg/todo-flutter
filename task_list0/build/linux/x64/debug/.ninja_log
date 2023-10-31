@@ -1,0 +1,80 @@
+# ninja log v5
+51	3309	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	9c260fb6a7ae0af9
+51	3309	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	9c260fb6a7ae0af9
+51	3309	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	9c260fb6a7ae0af9
+51	3309	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	9c260fb6a7ae0af9
+51	3309	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	9c260fb6a7ae0af9
+51	3309	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	9c260fb6a7ae0af9
+51	3309	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	9c260fb6a7ae0af9
+3310	4446	1697901022474111596	CMakeFiles/task_list0.dir/flutter/generated_plugin_registrant.cc.o	e87b221c0c9457f6
+51	3309	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	9c260fb6a7ae0af9
+51	3309	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_engine.h	9c260fb6a7ae0af9
+51	3309	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	9c260fb6a7ae0af9
+51	3309	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	9c260fb6a7ae0af9
+51	3309	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	9c260fb6a7ae0af9
+4885	4958	0	CMakeFiles/install.util	ce513da8f7ef7215
+4487	4885	1697901022918113782	intermediates_do_not_run/task_list0	ee6dafa3d5017d9b
+3309	4487	1697901022518111812	CMakeFiles/task_list0.dir/my_application.cc.o	6927cb538c0f5989
+51	3309	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	9c260fb6a7ae0af9
+51	3309	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_value.h	9c260fb6a7ae0af9
+51	3309	0	flutter/_phony_	9c260fb6a7ae0af9
+51	3309	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	9c260fb6a7ae0af9
+51	3309	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	9c260fb6a7ae0af9
+51	3309	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_view.h	9c260fb6a7ae0af9
+51	3309	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	9c260fb6a7ae0af9
+15315	16382	1696897898853975628	CMakeFiles/task_list0.dir/main.cc.o	ef5fc1dd640f3df5
+51	3309	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	9c260fb6a7ae0af9
+51	3309	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/libflutter_linux_gtk.so	9c260fb6a7ae0af9
+51	3309	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	9c260fb6a7ae0af9
+50	4404	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/libflutter_linux_gtk.so	9c260fb6a7ae0af9
+50	4404	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	9c260fb6a7ae0af9
+50	4404	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	9c260fb6a7ae0af9
+50	4404	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	9c260fb6a7ae0af9
+50	4404	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	9c260fb6a7ae0af9
+50	4404	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_engine.h	9c260fb6a7ae0af9
+50	4404	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	9c260fb6a7ae0af9
+50	4404	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	9c260fb6a7ae0af9
+50	4404	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	9c260fb6a7ae0af9
+50	4404	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	9c260fb6a7ae0af9
+50	4404	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	9c260fb6a7ae0af9
+50	4404	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	9c260fb6a7ae0af9
+50	4404	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	9c260fb6a7ae0af9
+50	4404	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	9c260fb6a7ae0af9
+50	4404	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	9c260fb6a7ae0af9
+50	4404	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	9c260fb6a7ae0af9
+50	4404	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	9c260fb6a7ae0af9
+50	4404	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	9c260fb6a7ae0af9
+50	4404	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_value.h	9c260fb6a7ae0af9
+50	4404	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_view.h	9c260fb6a7ae0af9
+50	4404	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	9c260fb6a7ae0af9
+50	4404	0	flutter/_phony_	9c260fb6a7ae0af9
+4405	5693	1698703628955200633	CMakeFiles/task_list0.dir/flutter/generated_plugin_registrant.cc.o	e87b221c0c9457f6
+4404	5735	1698703628999200850	CMakeFiles/task_list0.dir/my_application.cc.o	6927cb538c0f5989
+5736	6195	1698703629463203144	intermediates_do_not_run/task_list0	ee6dafa3d5017d9b
+6195	6299	0	CMakeFiles/install.util	ce513da8f7ef7215
+49	4348	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/libflutter_linux_gtk.so	9c260fb6a7ae0af9
+49	4348	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	9c260fb6a7ae0af9
+49	4348	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	9c260fb6a7ae0af9
+49	4348	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	9c260fb6a7ae0af9
+49	4348	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	9c260fb6a7ae0af9
+49	4348	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_engine.h	9c260fb6a7ae0af9
+49	4348	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	9c260fb6a7ae0af9
+49	4348	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	9c260fb6a7ae0af9
+49	4348	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	9c260fb6a7ae0af9
+49	4348	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	9c260fb6a7ae0af9
+49	4348	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	9c260fb6a7ae0af9
+49	4348	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	9c260fb6a7ae0af9
+49	4348	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	9c260fb6a7ae0af9
+49	4348	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	9c260fb6a7ae0af9
+49	4348	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	9c260fb6a7ae0af9
+49	4348	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	9c260fb6a7ae0af9
+49	4348	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	9c260fb6a7ae0af9
+49	4348	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	9c260fb6a7ae0af9
+49	4348	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_value.h	9c260fb6a7ae0af9
+49	4348	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/fl_view.h	9c260fb6a7ae0af9
+49	4348	0	/home/matheus/Projetos Flutter/task_list0/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	9c260fb6a7ae0af9
+49	4348	0	flutter/_phony_	9c260fb6a7ae0af9
+4348	5992	1698706379712305431	CMakeFiles/task_list0.dir/flutter/generated_plugin_registrant.cc.o	e87b221c0c9457f6
+4348	6064	1698706379784305771	CMakeFiles/task_list0.dir/my_application.cc.o	6927cb538c0f5989
+6064	6528	1698706380256307995	intermediates_do_not_run/task_list0	ee6dafa3d5017d9b
+6528	6765	0	CMakeFiles/install.util	ce513da8f7ef7215

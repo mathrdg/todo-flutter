@@ -1,0 +1,12 @@
+/home/matheus/Projetos Flutter/task_list0/build/linux/x64/debug/bundle/task_list0
+/home/matheus/Projetos Flutter/task_list0/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/matheus/Projetos Flutter/task_list0/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/matheus/Projetos Flutter/task_list0/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/matheus/Projetos Flutter/task_list0/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/matheus/Projetos Flutter/task_list0/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/matheus/Projetos Flutter/task_list0/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/matheus/Projetos Flutter/task_list0/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/matheus/Projetos Flutter/task_list0/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES
+/home/matheus/Projetos Flutter/task_list0/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/matheus/Projetos Flutter/task_list0/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/matheus/Projetos Flutter/task_list0/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
